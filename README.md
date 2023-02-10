@@ -11,7 +11,6 @@
 
 > **_What I used to create this project_** : React, Redux, TypeScript, JavaScript, REST API, HTML, CSS.
 
----
 
 <p style="font-size: 25px;"><strong>- Home</strong></p>
 
