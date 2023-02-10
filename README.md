@@ -7,8 +7,6 @@
   <h1 align="center">REST API Posts.</h1>
 </div>
 
----
-
 <h2 align="start">Website information</h2>
 
 > **_What I used to create this project_** : React, Redux, TypeScript, JavaScript, REST API, HTML, CSS.
